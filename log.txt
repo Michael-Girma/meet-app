@@ -1,0 +1,89 @@
+commit b94dcd157f12025e7d7001384f84d094cac98355
+Author: Michael Deyaso <mchlgirma@gmail.com>
+Date:   Sun Jan 30 00:17:20 2022 +0300
+
+    updated package.json
+
+commit c39741cefa34b4b6283a3f04c672ef9e375a2ca4
+Author: Michael Deyaso <mchlgirma@gmail.com>
+Date:   Sun Jan 30 00:12:13 2022 +0300
+
+    Final Changes for api
+
+commit efbb3f96b5de524b560ea9ebb1b30136d3b88370
+Author: jdispending <jedituki2000@gmail.com>
+Date:   Fri Jan 28 03:03:39 2022 +0300
+
+    Created route and logic for logout
+    
+    created new model blacklisted token to keep track of discarded jwt
+
+commit e91c54d26ab25cf21b2cae6d9f6f6c9d3a1db9ff
+Author: kidus-feleke <kidusfeleke5@gmail.com>
+Date:   Fri Jan 28 02:45:48 2022 +0300
+
+    Added get user endpoints
+
+commit 7d8913927ad5f4c64cff5b64a1f5b30418efc128
+Author: mahletch <Mahletchekol7@gmail.com>
+Date:   Fri Jan 28 02:36:04 2022 +0300
+
+    Added route logic for the requests controllers
+    
+    Created models request and user for sequelize-orm
+
+commit ab8b05a7e6ad16ddc6da6f12d96c3ab4db271124
+Author: kidus-feleke <kidusfeleke5@gmail.com>
+Date:   Fri Jan 28 00:39:59 2022 +0300
+
+    Scaffolded route structure for crud endpoints
+
+commit 31f3b69db879598efc7b773d4fcc696ca226d5a6
+Author: jdispending <jedituki2000@gmail.com>
+Date:   Thu Jan 27 02:07:26 2022 +0300
+
+    Implemented auth Middleware to verify token
+
+commit a893054708b0cba03e1073fc2dbfd3d2af27467f
+Author: Mikias <miketade46@gmail.com>
+Date:   Thu Jan 27 01:50:11 2022 +0300
+
+    Implemented login route and logic
+
+commit 017c469d86393efca85602dc10616480d10c7f8f
+Author: Michael Deyaso <mchlgirma@gmail.com>
+Date:   Thu Jan 27 01:29:40 2022 +0300
+
+    Added signup route and logic
+
+commit b49c85c2f78fd63d08f0f7686c6d9933580d4821
+Author: kidus-feleke <kidusfeleke5@gmail.com>
+Date:   Fri Jan 28 00:25:59 2022 +0300
+
+    Added auth route
+
+commit e741f9f4be7e64f8ef1fd832580d2a11b2496ed6
+Author: Michael Deyaso <mchlgirma@gmail.com>
+Date:   Thu Jan 27 00:33:22 2022 +0300
+
+    Added sequelize and created initial model and migration
+
+commit 9d48af8ccf1212f226ed49b83c808ea507641627
+Author: Michael Deyaso <mchlgirma@gmail.com>
+Date:   Thu Jan 27 00:40:37 2022 +0300
+
+    Updating cached git ignore
+
+commit 422e71bcf703149c8f2bd5f1a6bc275a37f9a12e
+Author: Michael Deyaso <mchlgirma@gmail.com>
+Date:   Wed Jan 26 23:52:34 2022 +0300
+
+    Initial Changes
+    
+    Chaning git ignore to exclude env file
+
+commit f562c150fbd1a31e4bdcb64e39e060b1d9dbb4ed
+Author: Michael Deyaso <mchlgirma@gmail.com>
+Date:   Wed Jan 26 22:31:51 2022 +0300
+
+    Initial commit
